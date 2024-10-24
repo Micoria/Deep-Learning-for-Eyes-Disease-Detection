@@ -4,24 +4,13 @@ This project uses a lightweight and efficient CNN model, SqueezeNet, to detect e
 Project Overview
 The main goal of this project is to use deep learning techniques to classify retinal images from the iChallenge-PM dataset into two categories: Pathologic Myopia (PM) and Non-Pathologic Myopia.
 
-Table of Contents
-Environment Setup
-Dataset
-Dataset Structure
-Data Preprocessing
-Model
-Building the Model
-Training
-Result Visualization
-Individual Image Prediction
-Environment Setup
 The project is developed with the following environment:
 
 Python: 3.7
 IDE: PyCharm
 Deep Learning Framework: PyTorch
 Dataset: iChallenge-PM (Pathologic Myopia Detection)
-To get the dataset, visit the dataset link (Extraction code: 2357).
+To get the dataset, visit the dataset link：https://drive.google.com/drive/folders/1ZRzShFSdCgugzasrJDTaRCjW8Nsf9Jih?usp=drive_link.
 
 Dataset
 1.1 Dataset Introduction
