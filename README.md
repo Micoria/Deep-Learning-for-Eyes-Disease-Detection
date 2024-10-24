@@ -1,5 +1,3 @@
-![test_figure](https://github.com/user-attachments/assets/5a4b94f6-fd3e-410c-a8a2-7dbfe81d661e)
-![training_loss](https://github.com/user-attachments/assets/4b7844b2-5d8f-4d10-a06c-0f772ef8987f)
 # Deep-Learning-for-Eyes-Disease-Detection
 This project uses a lightweight and efficient CNN model, SqueezeNet, to detect eye diseases, specifically Pathologic Myopia (PM). SqueezeNet is known for its small size, with fewer parameters compared to AlexNet, while maintaining similar performance.
 
@@ -38,3 +36,5 @@ PALM-Training400-Annotation-D&F.zip: Annotation file for diagnosis and lesions
 validation.zip: Contains validation images
 valid_gt.zip: Contains the labels for the validation images
 PM_Lable_and_Fovea_Location.xlsx: Label and fovea location information
+![test_figure](https://github.com/user-attachments/assets/5a4b94f6-fd3e-410c-a8a2-7dbfe81d661e)
+![training_loss](https://github.com/user-attachments/assets/4b7844b2-5d8f-4d10-a06c-0f772ef8987f)
